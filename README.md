@@ -1,5 +1,7 @@
 ## dashboard by redux-saga
 
+[react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/Table)
+
 ### demo 
 
 ![](./images/demo.gif)
